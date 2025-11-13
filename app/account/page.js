@@ -5,7 +5,7 @@ export const metadata = {
 export default function Home() {
   return (
     <>
-      <h1>Account Page</h1>
+      <h1>Welcome, Trung Duc</h1>
     </>
   );
 }
